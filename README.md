@@ -1,4 +1,4 @@
-# ⟐AetherPulse.one Server  
+# ⟐Akashic.one Server  
 **⟐dot.one Network Core Server**  
 Self-hosted backend powering all applications within the AetherPulse.one ecosystem. Handles data, APIs, and secure app communication across every ⟐dot.one project.  
 ---
